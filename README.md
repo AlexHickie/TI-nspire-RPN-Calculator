@@ -1,5 +1,7 @@
 # TI-nspire RPN (Reverse Polish Notation) Calculator
 
+This calculator is nowhere near as stable as the TI calculator app. If you manage to input incorrect operation the RPN calculator will crash and all data stored in the RPN calculator will be lost. For any lengthy calculation the TI calculator app should be used.
+
 ## Features
 * All physical math buttons (+ - * / ln log sqrt etc.)
 * Pi and e constants
