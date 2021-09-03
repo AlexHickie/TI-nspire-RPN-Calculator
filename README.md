@@ -9,7 +9,7 @@ This calculator is nowhere near as stable as the TI calculator app. If you manag
 * Complex Math (Only supports rectangular form)
 
 ## Install
-Use the TI-nspire student software for your calculator to upload "RPN.tns" to the "MyWidgets" folder on your calculator. The calculator will appear as a widget under the "Add Widgets" menu when you add a page to your document.
+Use the TI-nspire student software for your calculator to upload `RPN.tns` to the `MyWidgets` folder on your calculator. The calculator will appear as a widget under the `Add Widgets` menu when you add a page to your document.
 
 ## Not Working
 * Any external function (e.g. rand() or any other function from the catalog)
@@ -19,6 +19,6 @@ Use the TI-nspire student software for your calculator to upload "RPN.tns" to th
 * Possibly complex math. Only tested simple operations. Only supports rectangular form
 
 ## Non-obvious keybindings
-* Push - enter
+* Push - <kbd>enter</kbd>
 * Pop - <kbd>⏎</kbd> (return)
-* Swap - tab
+* Swap - <kbd>tab</kbd>
