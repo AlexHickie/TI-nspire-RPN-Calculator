@@ -20,5 +20,5 @@ Use the TI-nspire student software for your calculator to upload "RPN.tns" to th
 
 ## Non-obvious keybindings
 * Push - enter
-* Pop - return
+* Pop - <kbd>⏎</kbd> (return)
 * Swap - tab
